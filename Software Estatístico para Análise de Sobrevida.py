@@ -289,23 +289,23 @@ class SurvivalApp(ctk.CTk):
             citacoes = (
                     "ABNT:\n"
                     "NEVES, Eduardo Borba. Software Estatístico para Análise de Sobrevida."
-                    "Versão 1.0. [S.l.]: 2026. Software.\n\n"
+                    "Versão 1.0. [S.l.]: 2026. Software. Zenodo. https://doi.org/10.5281/zenodo.20858301 \n\n"
                     
                     "APA:\n"
                     "Neves, E. B. (2026). Software Estatístico para Análise de Sobrevida."
-                    "(Versão 1.0) [Software].\n\n"
+                    "(Versão 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20858301 \n\n"
                     
                     "IEEE:\n"
                     "E. B. Neves, \"Software Estatístico para Análise de Sobrevida,\" "
-                    "ver. 1.0, 2026. [Software].\n\n"
+                    "ver. 1.0, 2026. [Software]. Zenodo. https://doi.org/10.5281/zenodo.20858301 \n\n"
                     
                     "VANCOUVER:\n"
                     "Neves EB. Software Estatístico para Análise de Sobrevida [Software]. "
-                    "Versão 1.0. [S.l.]: 2026.\n"
+                    "Versão 1.0. [S.l.]: 2026. Zenodo. https://doi.org/10.5281/zenodo.20858301\n"
                 )
 
             output += citacoes
-            #output += "NEVES, Eduardo Borba. Software Estatístico para Análise de Sobrevida. [Software]. 2026.\n"
+            #output += "NEVES, Eduardo Borba. Software Estatístico para Análise de Sobrevida. [Software]. 2026. Zenodo. https://doi.org/10.5281/zenodo.20858301\n"
 
             self.text_result.delete("1.0", "end"); self.text_result.insert("end", output)
 
