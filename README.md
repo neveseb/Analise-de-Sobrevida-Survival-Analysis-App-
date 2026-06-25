@@ -33,9 +33,10 @@ Bash
 pip install pandas numpy matplotlib customtkinter lifelines statsmodels openpyxl
 
 3. Rodar a Aplicação
+
 Bash
 
-python Sobrevida9.py
+python NOME_DO_ARQUIVO.py
 
 📊 Estrutura e Métricas Utilizadas
 
@@ -46,14 +47,14 @@ python Sobrevida9.py
 Se este software for útil para o desenvolvimento da sua pesquisa, por favor, utilize as referências abaixo para citação:
 
 ABNT
-NEVES, Eduardo Borba. Software Estatístico para Análise de Sobrevida. Versão 1.0. [S.l.]: Zenodo, 2026. Software. DOI: 10.5281/zenodo.XXXXXXX
+NEVES, Eduardo Borba. Software Estatístico para Análise de Sobrevida. Versão 1.0. [S.l.]: Zenodo, 2026. Software. DOI: 10.5281/zenodo.20858301
 
 APA
-Neves, E. B. (2026). Software Estatístico para Análise de Sobrevida (Versão 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Neves, E. B. (2026). Software Estatístico para Análise de Sobrevida (Versão 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20858301
 
 IEEE
-E. B. Neves, "Software Estatístico para Análise de Sobrevida," ver. 1.0, Zenodo, 2026. [Software]. Available: https://doi.org/10.5281/zenodo.XXXXXXX
+E. B. Neves, "Software Estatístico para Análise de Sobrevida," ver. 1.0, Zenodo, 2026. [Software]. Available: https://doi.org/10.5281/zenodo.20858301
 
 VANCOUVER
-Neves EB. Software Estatístico para Análise de Sobrevida [Software]. Versão 1.0. [S.l.]: Zenodo; 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX
+Neves EB. Software Estatístico para Análise de Sobrevida [Software]. Versão 1.0. [S.l.]: Zenodo; 2026. Disponível em: https://doi.org/10.5281/zenodo.20858301
 
