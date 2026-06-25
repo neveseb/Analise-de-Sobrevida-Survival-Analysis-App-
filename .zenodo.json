@@ -1,0 +1,22 @@
+```json
+{
+    "title": "Software Estatístico para Análise de Sobrevida",
+    "upload_type": "software",
+    "creators": [
+        {
+            "name": "Neves, Eduardo Borba",
+            "affiliation": "Federal Technological University of Paraná"
+        }
+    ],
+    "description": "Interface gráfica integrada em Python voltada para a execução automatizada de análise de sobrevida, englobando estimativas de Kaplan-Meier, regressão de riscos proporcionais de Cox e diagnósticos estatísticos associados como resíduos de Schoenfeld e testes de colinearidade.",
+    "keywords": [
+        "Survival Analysis",
+        "Análise de Sobrevida",
+        "Kaplan-Meier",
+        "Cox Proportional Hazards",
+        "Python",
+        "CustomTkinter"
+    ],
+    "license": "MIT",
+    "version": "1.0.0"
+}
