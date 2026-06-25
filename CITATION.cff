@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software em sua pesquisa, por favor cite-o conforme os metadados abaixo."
+authors:
+  - family-names: "Neves"
+    given-names: "Eduardo Borba"
+    affiliation: "Federal Technological University of Paraná"
+title: "Software Estatístico para Análise de Sobrevida"
+version: "1.0.1"
+doi: "10.5281/zenodo.20858301"
+date-released: "2026-06-25"
+url: "https://github.com/neveseb/Analise-de-Sobrevida-Survival-Analysis-App-"
+keywords:
+  - "survival analysis"
+  - "análise de sobrevida"
+  - "kaplan-meier"
+  - "cox proportional hazards"
+  - "medical statistics"
+  - "python"
